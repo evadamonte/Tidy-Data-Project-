@@ -20,7 +20,28 @@ This project focuses on applying **tidy data principles** to clean and transform
 - Practice good coding and GitHub practices
 
 ## 📥 Setup Instructions
-Clone the repository and run the Jupyter Notebook:
+
+Here is how you can run the project locally:
+
+1. **Clone the repository:**  
 ```bash
-git clone [https://github.com/evadamonte/Tidy-Data-Project-/blob/main/README.md]
-cd Tidy-Data-Project
+git clone https://github.com/evadamonte/Tidy-Data-Project-.git
+```
+2. **Navigate into the project folder:**  
+```bash
+cd Tidy-Data-Project-
+```
+3. **(Optional) Create and activate a virtual environment:**  
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
+```
+4. **Install required packages:**  
+```bash
+pip install pandas matplotlib seaborn jupyter
+```
+5. **Run the Jupyter Notebook:**  
+```bash
+jupyter notebook
+```
+6. **Open the notebook file (`tidy_data_project.ipynb`) and follow the workflow.**
