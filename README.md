@@ -51,7 +51,8 @@ If using Google Colab, upload the notebook and dataset, then run all cells.
 - 📈 Medal type distribution chart colored by **gold**, **silver**, and **bronze**
 
 ✅ **Visual Examples:**
-(*Optional — add screenshots of your plots here if required by the assignment.*)
+### Medal Count by Sport Visualization
+![Medal by Sport](https://github.com/evadamonte/TidyData-Project/blob/main/medal_by_sport.png)
 
 ---
 
