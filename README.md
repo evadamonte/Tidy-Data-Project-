@@ -22,5 +22,5 @@ This project focuses on applying **tidy data principles** to clean and transform
 ## 📥 Setup Instructions
 Clone the repository and run the Jupyter Notebook:
 ```bash
-git clone [your-repo-link]
-cd TidyData-Project
+git clone [https://github.com/evadamonte/Tidy-Data-Project-/blob/main/README.md]
+cd Tidy-Data-Project
