@@ -1,4 +1,4 @@
-# Tidy Data Project - Olympics 2008 Medalists
+# TidyData Project - Olympics 2008 Medalists
 
 ## 📊 Project Overview
 This project focuses on applying **tidy data principles** to clean and transform an Olympic 2008 Medalists dataset. The goal is to reshape the data for analysis and visualization while following best practices for clean, reproducible data science workflows.
@@ -29,7 +29,7 @@ git clone https://github.com/evadamonte/Tidy-Data-Project-.git
 ```
 2. **Navigate into the project folder:**  
 ```bash
-cd Tidy-Data-Project-
+cd TidyData-Project
 ```
 3. **(Optional) Create and activate a virtual environment:**  
 ```bash
@@ -44,4 +44,4 @@ pip install pandas matplotlib seaborn jupyter
 ```bash
 jupyter notebook
 ```
-6. **Open the notebook file (`tidy_data_project.ipynb`) and follow the workflow.**
+6. **Open the notebook file (`tidydata_project.ipynb`) and follow the workflow.**
