@@ -27,3 +27,48 @@ Install the following Python libraries:
 git clone https://github.com/your-username/Tidy-Data-Project-.git
 cd Tidy-Data-Project-
 jupyter notebook tidy_data_project.ipynb
+```
+If using Google Colab, upload the notebook and dataset, then run all cells.
+
+---
+
+## 🗂 Dataset Description
+**Source:** 2008 Olympics Medalists Dataset (provided in CSV format)  
+**File:** `olympics_08_medalists.csv`  
+
+### Preprocessing and Cleaning Steps:
+- Reshaped from wide to long format using `melt()`
+- Separated combined columns using `str.split()`
+- Cleaned strings and removed missing values
+- Exported cleaned dataset as `tidy_olympics_2008.csv`
+
+---
+
+## 📊 Visualizations Created
+- 📈 Bar chart: Top 10 sports by medal count
+- 📈 Bar chart: Medal counts by gender
+- 📈 Heatmap: Medal counts by gender and sport
+- 📈 Medal type distribution chart colored by **gold**, **silver**, and **bronze**
+
+✅ **Visual Examples:**
+(*Optional — add screenshots of your plots here if required by the assignment.*)
+
+---
+
+## 🔗 References
+- 📖 [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- 📖 [Tidy Data Principles by Hadley Wickham](https://vita.had.co.nz/papers/tidy-data.pdf)
+- 📖 [Seaborn Documentation](https://seaborn.pydata.org/)
+- 📖 [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+
+---
+
+## 💾 Output:
+- Cleaned dataset: `tidy_olympics_2008.csv`
+- Pivot tables
+- Multiple visualizations ready for EDA (Exploratory Data Analysis)
+
+---
+
+✅ **Final Note:**  
+This project demonstrates strong data wrangling, cleaning, and visualization skills while adhering to **tidy data principles** — making the dataset analysis-ready and reproducible.
